@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.1](https://github.com/terraform-aws-modules/terraform-aws-key-pair/compare/v3.0.0...v3.0.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#36](https://github.com/terraform-aws-modules/terraform-aws-key-pair/issues/36)) ([9b14dc1](https://github.com/terraform-aws-modules/terraform-aws-key-pair/commit/9b14dc1be8146afbd805017dfec1fe69ea6ecc37))
+
 ## [3.0.0](https://github.com/terraform-aws-modules/terraform-aws-key-pair/compare/v2.1.1...v3.0.0) (2026-04-21)
 
 ### ⚠ BREAKING CHANGES
